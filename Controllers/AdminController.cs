@@ -22,7 +22,7 @@ namespace API.Controllers
 
             var Claims = new List<Claim>
                     {
-                        new Claim("type", "Admin"),
+                        new("type", "Admin"),
                     };
 
             var Key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SXkSqsKyNUyvGbnHs7ke2NCq8zQzNLW7mPmHbnZZ"));
@@ -39,9 +39,17 @@ namespace API.Controllers
         }
     }
 
-    public class User{
-        string username = "";
-        string password = "";
+    public class User
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public User(string username, string password)
+        {
+            Username = username;
+            Password = password;
+        }
     }
+
+
 
 }
