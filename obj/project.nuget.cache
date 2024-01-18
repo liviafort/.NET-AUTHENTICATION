@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOKpEBwNDo7Eh9EcG0X689igNbp14Wpq5U4/yxDel4EkaHVK67ebPnN/j2GllbuMQpXP4EatXq4sG/hsMNSFSA==",
+  "dgSpecHash": "DvyNxs1tkMoAvo5z4FdkT18AdNPEAZZq7j1m7Kfju1pw1UtrEFhKYIGf3C+c8vdP8UWCVWVX9Z6T5PQkqOU1Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\livia\\Documents\\AUTH\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\livia\\Documents\\AUTH\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\livia\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\livia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

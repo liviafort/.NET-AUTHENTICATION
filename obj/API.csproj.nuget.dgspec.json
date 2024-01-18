@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\livia\\Documents\\AUTH\\api\\API.csproj": {}
+    "C:\\Users\\livia\\Documents\\AUTH\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\livia\\Documents\\AUTH\\api\\API.csproj": {
+    "C:\\Users\\livia\\Documents\\AUTH\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\livia\\Documents\\AUTH\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\livia\\Documents\\AUTH\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\livia\\Documents\\AUTH\\api\\API.csproj",
+        "projectPath": "C:\\Users\\livia\\Documents\\AUTH\\API\\API.csproj",
         "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\livia\\Documents\\AUTH\\api\\obj\\",
+        "outputPath": "C:\\Users\\livia\\Documents\\AUTH\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
